@@ -7,8 +7,8 @@ package listeners;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import jokerRMI.Manager;
-import jokerRMI.WelcomePage;
+import JokerManager.Manager;
+import JokerManager.WelcomePage;
 
 /**
  *

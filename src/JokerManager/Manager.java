@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jokerRMI;
+package JokerManager;
 
 import java.awt.Color;
 import java.awt.Container;
@@ -492,9 +492,9 @@ public class Manager extends javax.swing.JFrame {
         Manager_LB.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         Manager_LB.setText("Manager :");
 
-        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo1.png"))); // NOI18N
+        Logo1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerManager/JokerLogo1.png"))); // NOI18N
 
-        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jokerRMI/JokerLogo3.png"))); // NOI18N
+        Logo2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JokerManager/JokerLogo3.png"))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(102, 102, 102));
